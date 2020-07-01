@@ -1,0 +1,1177 @@
+https://global.gotomeeting.com/join/619014973
+
+
+
+
+
+
+
+https://www.guru99.com/pdf/sap_abap_preview.pdf   ---->Abap notes
+
+
+					
+		
+FBO's  - GENERAL - JOINING REPORT- DETAILED 
+		
+Division : Kamareddy
+	
+	
+		
+								
+Sl.No.
+	
+Hallticket No.
+	
+Candidate Name
+	
+DOB
+	
+Gender
+	
+District
+	
+Qualification
+	
+Community
+	
+DOJ
+1
+	
+1248000690
+	
+VADLA PRAVEENA
+	
+21 Jul 1996
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+2
+	
+1248002180
+	
+KOTHURI RAJITHA
+	
+16 Apr 1996
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+12 Jul 2019
+3
+	
+1248002416
+	
+MACHABOINA MAHESWARI
+	
+25 Aug 1992
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+4
+	
+1248002728
+	
+N PRADEEP
+	
+26 Jun 1987
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+5
+	
+1248002977
+	
+SOLANKI SRUJANA
+	
+28 Sep 1996
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+6
+	
+1248003035
+	
+NAGESH M
+	
+16 May 1986
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+12 Jul 2019
+7
+	
+1248003039
+	
+PADMA SWARUPA
+	
+03 Mar 1986
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+8
+	
+1248005699
+	
+J SUSMITHA
+	
+24 Aug 1991
+	
+F
+	
+Nizamabad
+	
+ELECTRONICS&COMMUNICATION ENGINEERING
+	
+SC
+	
+11 Jul 2019
+9
+	
+1248008912
+	
+U SHIVA PRASAD
+	
+14 Jul 1995
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+12 Jul 2019
+10
+	
+1248010961
+	
+KHAIRAMKONDA SHARADA
+	
+05 May 1994
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+11
+	
+1248011403
+	
+E RAVICHANDRA REDDY
+	
+10 Aug 1988
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+12
+	
+1248019863
+	
+ROUTHU SAGAR
+	
+09 May 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+13
+	
+1248021974
+	
+VADLA SHEKAR
+	
+17 Aug 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+14
+	
+1248022709
+	
+MOHMMAD ABDUL SAMREEN SULTHANA
+	
+15 Jul 1993
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-E
+	
+12 Jul 2019
+15
+	
+1248023150
+	
+K DEVENDAR
+	
+18 Jun 1994
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+16
+	
+1248023379
+	
+MAHADEV NAVYA
+	
+25 Jun 1997
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-A
+	
+12 Jul 2019
+17
+	
+1248027153
+	
+KANNI DAVALESHWARI
+	
+10 Jan 1991
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-A
+	
+12 Jul 2019
+18
+	
+1248027366
+	
+KORAMPALLI NAVEEN
+	
+25 Feb 1994
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+13 Jul 2019
+19
+	
+1248028352
+	
+MALOTH ANITHA
+	
+11 Feb 1999
+	
+F
+	
+Nizamabad
+	
+DIPLOMA IN COMPUTER SCIENC
+	
+ST
+	
+12 Jul 2019
+20
+	
+1248029505
+	
+THENUGU ASHOK
+	
+14 May 1989
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+21
+	
+1248029745
+	
+G SRAVAN KUMAR
+	
+02 Jun 1990
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+22
+	
+1248029782
+	
+SHANKARIGARI NAVEEN
+	
+01 Feb 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+17 Jul 2019
+23
+	
+1248030870
+	
+DASARI ARUNA
+	
+27 Jan 1998
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+24
+	
+1248031051
+	
+THIRUPATHI NAVEEN KUMAR
+	
+30 Dec 1992
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+25
+	
+1248031557
+	
+BANDI VAMSHIRAJ
+	
+27 Jul 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+11 Jul 2019
+26
+	
+1248031718
+	
+NAYIKA PRASHANTH KUMAR
+	
+11 Jun 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+11 Jul 2019
+27
+	
+1248031928
+	
+B NAVEENKUMAR
+	
+06 Jul 1992
+	
+M
+	
+Nizamabad
+	
+M BI P C
+	
+BC-B
+	
+12 Jul 2019
+28
+	
+1248032314
+	
+SK SALEEM AHMED
+	
+29 Oct 1995
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-E
+	
+12 Jul 2019
+29
+	
+1248034515
+	
+VADLA KALYANI
+	
+17 Apr 1993
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+30
+	
+1248034616
+	
+PUSALA JYOTHI NAYAK
+	
+10 Aug 1995
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+ST
+	
+12 Jul 2019
+31
+	
+1548025351
+	
+YADALA SURESHKUMAR
+	
+21 Jun 1986
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+12 Jul 2019
+32
+	
+1648038527
+	
+SHAIK ABDUL MAZID
+	
+28 Aug 1985
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-E
+	
+17 Jul 2019
+33
+	
+1748025900
+	
+BODNAM SOUNDARYA
+	
+05 Apr 1994
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+01 Aug 2019
+34
+	
+1748026114
+	
+BADAVATH SHRAVANTHI
+	
+05 Jul 1996
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+ST
+	
+12 Jul 2019
+35
+	
+1748028920
+	
+KAMMARI RAMULU
+	
+10 Jul 1987
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+36
+	
+1948002646
+	
+ALLAKONDA LAVAN GOUD
+	
+16 Jul 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+31 Jul 2019
+37
+	
+1948007879
+	
+NAIKOTI SRINIVAS
+	
+18 Mar 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+38
+	
+1948012107
+	
+DEME MAHESH
+	
+17 Jan 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+39
+	
+1948019008
+	
+CHILUVERI SUDHEER KUMAR
+	
+14 Jun 1989
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+17 Jul 2019
+40
+	
+1948020403
+	
+KOJGEWAR VENKAT DEEP
+	
+26 Aug 1994
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+41
+	
+1948025232
+	
+BONTHALA SAMSKRUTHI
+	
+01 Dec 1993
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+42
+	
+1948039034
+	
+VONTARY ANANDREDDY
+	
+09 Dec 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+30 Jul 2019
+43
+	
+1948051329
+	
+PAVULURI SRI SAI ESHWARI
+	
+26 May 1996
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+44
+	
+1948052546
+	
+DEBBETI SANTHOSH
+	
+25 Aug 1994
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+12 Jul 2019
+45
+	
+1948055531
+	
+K RAMCHANDER
+	
+10 May 1988
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+11 Jul 2019
+46
+	
+1948060579
+	
+B BHAVSINGH
+	
+14 Jul 1988
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+01 Aug 2019
+47
+	
+1948062287
+	
+SANDU PRAVEEN
+	
+23 May 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+02 Aug 2019
+48
+	
+1948067714
+	
+NALESHWAR POSHANNA
+	
+13 May 1987
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+SC
+	
+11 Jul 2019
+49
+	
+1948082417
+	
+POTTAPINJARA SOWNDARYA
+	
+22 Jun 1995
+	
+F
+	
+Nizamabad
+	
+BACHELOR OF DEGREE
+	
+SC
+	
+12 Jul 2019
+50
+	
+1948083601
+	
+DEVSOTH RAMESH
+	
+21 May 1992
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+ST
+	
+01 Aug 2019
+51
+	
+1948088164
+	
+BHEEMARTHI VENU
+	
+21 Jun 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+24 Jul 2019
+52
+	
+1948089486
+	
+E BHASKER RAO
+	
+10 Aug 1989
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+17 Jul 2019
+53
+	
+1948099317
+	
+MOHAN  SHANIGARAPU
+	
+02 Jul 1987
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-A
+	
+12 Jul 2019
+54
+	
+1948100127
+	
+KAMUDU JAYRAJ
+	
+12 Aug 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+ST
+	
+11 Jul 2019
+55
+	
+1948100874
+	
+JUKANTI  SUDHARANI
+	
+13 Dec 1995
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+12 Jul 2019
+56
+	
+1948110523
+	
+G SRIKANTH
+	
+10 Jan 1983
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+17 Jul 2019
+57
+	
+1948111475
+	
+DOOROJI SAIKIRAN
+	
+10 Mar 1993
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+58
+	
+1948118107
+	
+SHAIK ASIF
+	
+04 Jun 1992
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-E
+	
+12 Jul 2019
+59
+	
+1948123935
+	
+AK MAHESH
+	
+02 Apr 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-D
+	
+12 Jul 2019
+60
+	
+1948125397
+	
+M JOEL DIXIT
+	
+24 Mar 1988
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-C
+	
+11 Jul 2019
+61
+	
+1948128428
+	
+AKULA MOUNIKA
+	
+15 Aug 1994
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+62
+	
+1948130744
+	
+SANDEEP
+	
+30 Jun 1992
+	
+M
+	
+Nizamabad
+	
+DIPLOMA IN ELECTRONICS
+	
+BC-A
+	
+11 Jul 2019
+63
+	
+1948135225
+	
+NAVEEN KUMAR K
+	
+25 Aug 1989
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+20 Jul 2019
+64
+	
+1948135312
+	
+THIRUPATHI CHENNA
+	
+06 Jun 1986
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+11 Jul 2019
+65
+	
+1948144633
+	
+JAYANTHI GAMPALA
+	
+19 Jan 1989
+	
+F
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+OC
+	
+24 Jul 2019
+66
+	
+1948145446
+	
+KOMARAVELLI NARSING
+	
+07 Mar 1987
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-A
+	
+11 Jul 2019
+67
+	
+1948149738
+	
+S LAKSHMAN
+	
+16 Jun 1991
+	
+M
+	
+Nizamabad
+	
+INTERMEDIATE
+	
+BC-B
+	
+12 Jul 2019
+	

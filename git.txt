@@ -1,0 +1,11 @@
+git remote add origin https://github.com/shyamreddy8287/shyamgit.git
+
+
+172.31.18.253
+172.31.19.159
+
+
+Chanti@123
+
+
+http://fmis.telangana.gov.in/
